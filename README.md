@@ -1,5 +1,7 @@
 # 2D-reflective-image-generation
 
+This is my FYP.
+
 A machine learning model made with tensorflow
 By FYP Tom, Aaron, Craig
 
